@@ -1,0 +1,11 @@
+{
+  "name": "css-time",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2",
+    "readme-tester": "orangemug/readme-tester"
+  }
+}
